@@ -1,0 +1,45 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## Xcode patch files
+*.hmap
+
+## App packaging
+*.ipa
+*.bundle.resources/
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+# Add this line if you want to avoid checking in source code from RFCs.
+# .build/
+
+# Package.resolved
+# configure this file as you need.
+# Package.resolved
+
+# Generated files
+#
+# DerivedData/
+# build/
+
+# Miscellaneous
+*.moved-aside
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+## Obj-C/Swift specific
+*.swp
+*.lock
+*~.nib
+
+## macOS
+.DS_Store
